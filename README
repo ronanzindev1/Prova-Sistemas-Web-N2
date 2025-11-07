@@ -1,3 +1,3 @@
-# Ecommerce
+# Sistema de Pedidos de Comida
 
-Sistema de venda de produdos online(Mercado livre)
+Sistema  de pedidos de comida. Uma API recebendo pedidos, uma função que publica mensagens em uma fila, um processador que consome a fila, grava pedidos no banco e notifica partes interessadas via tópicos (SNS). O objetivo é ser um exemplo didático e uma base para implementar uma solução serverless local ou em nuvem.
