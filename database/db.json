@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",  
+        "description": "A high-precision wireless mouse with ergonomic design.",
+        "price": 25.99,
+        "stock": 150
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",  
+        "description": "A durable mechanical keyboard with customizable RGB lighting.",
+        "price": 79.99,
+        "stock": 80
+    },
+    {
+        "id": 3,
+        "name": "HD Monitor",  
+        "description": "A 24-inch HD monitor with vibrant colors and sharp images.",
+        "price": 149.99,
+        "stock": 60
+    },
+    {
+        "id": 4,
+        "name": "USB-C Hub",  
+        "description": "A multi-port USB-C hub with HDMI, USB 3.0, and SD card reader.",
+        "price": 39.99,
+        "stock": 200
+    }
+
+]
